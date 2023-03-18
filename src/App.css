@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  border: 1px solid red;
+}
+
+body {
+  margin: 0;
+}
+
+nav {
+  height: 10vh;
+  display: flex;
+  max-height: 70px;
+  border-bottom: 2px whitesmoke solid;
+  padding: 10px 18px;
+}
